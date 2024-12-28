@@ -9,3 +9,8 @@
 ``` python
 print('Hello world !')
 ```
+### A checklist
+
+- [x] Adding an image
+- [x] Adding code
+- [ ] Adding a checklist
